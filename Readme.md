@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img alt="dev.finances" src="https://cdn.discordapp.com/attachments/784133268592132107/916552998015086602/Post_Banner_Linkedin_-_first_-_tentativa.png" width="100%">
+  <img alt="dev.finances" src="https://cdn.discordapp.com/attachments/784133268592132107/920397196904529950/banner-health-helper-app.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
