@@ -18,18 +18,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 - React Native
-- Integrações de APIs (React Navigator, StatusBar, SaveAreaView 
-- Algumas bibliotecas auxiliares como INTL
+- Integrações de APIs (Pressable, Flatlist, TouchableOpacity, Vibration, etc)
+- Algumas bibliotecas auxiliares como Expo
 - Hooks como useEffect e useState
 - NodeJs
 
 ## 💻 Projeto
 
-O objetivo do projeto é aplicar os conceitos e conhecimentos que obtive em um curto período de tempo, com uma aplicação de PetShop.🐱 
+O objetivo do projeto é aplicar os conceitos e conhecimentos que obtive em um curto período de tempo, com uma aplicação de cálculo de Índice de Massa Corpórea(IMC).💪 
 
 ## 🔖 Layout
 
-O layout desta aplicação foi desenvolvido e pode ser acessado através do link https://www.figma.com/file/jfZvtWghnmPka6PmjMyyeP/App-Gatito?node-id=0%3A1
+O layout desta aplicação foi desenvolvido e pode ser acessado através do link https://www.youtube.com/watch?v=Y8tP1jbRYHY
 
 ## 🤔 Como Usar
 
@@ -50,4 +50,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Desenvolvido por Guilherme Ferreira.
+Desenvolvido por Guilherme Ferreira & OneBitCode.
